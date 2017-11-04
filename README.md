@@ -1,4 +1,4 @@
-#  AWS/TRRAFORM 1 [ Nov 2017]
+#  AWS/TERRAFORM 1 [ Nov 2017]
 
 Cloud Architecture and Deployment [AWS/Terraform]
 
@@ -58,3 +58,4 @@ Ensure the following is installed and working
 
 
 ![fig2](screengrab2.png?raw=true "fig2")
+![fig3](screengrab3.jpeg?raw=true "fig3")
