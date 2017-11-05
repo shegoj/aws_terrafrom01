@@ -16,3 +16,7 @@ provider aws {
   region = "eu-west-1"
 }
 
+output "cname" {
+  value = "${aws_elastic_beanstalk_environment.test_env.cname}"
+}
+

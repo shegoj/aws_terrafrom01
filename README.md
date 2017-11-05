@@ -58,3 +58,5 @@ Ensure the following is installed and working
 
 
 ![fig2](screengrab3.jpeg?raw=true "fig3")
+
+![fig4](screengrab4.png?raw=true "fig4")
